@@ -248,7 +248,7 @@ Onglets :
 
 ---
 
-## 🗄 Base de Données PostgreSQL
+##  Base de Données PostgreSQL
 
 ### Schéma `h2morocco`
 
@@ -346,7 +346,7 @@ DB_PASSWORD=votre_mot_de_passe
 
 ---
 
-## 🛠️ Configuration
+##  Configuration
 
 ### Sans PostgreSQL (mode CSV)
 
